@@ -20,7 +20,7 @@ Yaxi.on("ready", () => {
 });
 ///////////////////////
 corona.on("ready", () => {
-    var join = corona.channels.get(""); /// id voice
+    var join = corona.channels.get("911921050760126514"); /// id voice
     if (join) join.join();
   });
 //////////////// tokn lera da bne 
