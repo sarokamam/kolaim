@@ -24,4 +24,4 @@ corona.on("ready", () => {
     if (join) join.join();
   });
 //////////////// tokn lera da bne 
-corona.login("");
+corona.login("Njk2ODQ0Nzc5MzQ2MDY3NDk2.YnOyGw.ngjLDE_-Ka4Ur68naV9ecUeco-E");
