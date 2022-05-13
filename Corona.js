@@ -7,7 +7,7 @@ Yaxi.on("ready", () => {
   );
   let statuses = [
   
-  `You only live once, so try to live for God.`,
+  `Full-Stack Dev`,
  
   ];
   setInterval(function() {
